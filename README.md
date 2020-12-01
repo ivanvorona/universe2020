@@ -28,7 +28,7 @@ As well as the Hubbers answering questions online, during each session, your hos
 
 Remember though, we want to keep the discussions area a friendly and welcoming place for everyone taking part in the event, and **focused specifically and solely on the topic(s) covered in the GitHub Universe sessions**. Therefore please respect the event [code of conduct](CODE_OF_CONDUCT.md) and be awesome to each other.
 
-All the session recordings will be available after the event. The discussion area will be for live interaction and Q&A for session themes and topics. We aim to do our best to answer most questions but it's possible not all questions will get answered. We will then be locking the discussions to make them read-only after each session, but we will leave them available as an archive so you'll still be able to refer back. 
+All the session recordings will be available after the event. The discussion area will be for live interaction and Q&A for session themes and topics. We aim to do our best to answer most questions but it's possible not all questions will get answered. We will be locking the discussions to make them read-only after the event so you’ll be able to refer back to them after Universe has commenced.
 
 ## Read more
 
