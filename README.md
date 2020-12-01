@@ -1,4 +1,4 @@
-<img src="https://githubuniverse.com/assets/img/GitHub-Universe-logo-2020-white.svg" width="300" alt="GitHub Universe Virtual 2020">
+<img src="images/GitHub-Universe-logo-2020.svg" width="300" alt="GitHub Universe Virtual 2020">
 
 [https://githubuniverse.com/](https://githubuniverse.com/)
 &nbsp;•&nbsp;
@@ -22,7 +22,7 @@ Join us and [watch the live stream here](https://githubuniverse.com/). All of th
 
 We've enabled our new Discussions on this repository for you to ask questions about each session. Engineering teams and GitHub experts across the world will be online during each of the sessions. 
 
-Head to [the Discussions tab](https://github.com/githubevents/universe2020/discussions) to take part! Y
+Head to [the Discussions tab](https://github.com/githubevents/universe2020/discussions) to take part!
 
 As well as the Hubbers answering questions online, during each session, your hosts will be picking questions from the discussions thread to ask the presenter as part of the live-stream so please do join in!
 
